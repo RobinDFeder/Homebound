@@ -2,7 +2,7 @@
  
 **A self-hosted residential exit-node and travel-privacy stack.**
  
-Route all of a travelling device's traffic back through a home box on a residential ISP line, so the public internet sees an ordinary residential IP — never a datacenter or VPN — while the travelling laptop is made physically incapable of determining its own location.
+Route all of a travelling device's traffic back through a home box on a residential ISP line, so the public internet sees an ordinary residential IP — never a datacenter or VPN — while the travelling laptop is made physically incapable of determining its own location and blocked from external agents for highly critial security work.
  
 ---
  
